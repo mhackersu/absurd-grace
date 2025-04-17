@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 **Absurd Grace: A Field Guide for the Spiritually Confused, Culturally Overloaded, and Chronically Online** 
 
 ## **Preface**
-=======
-
-## **Preface**  
-**Absurd Grace: A Field Guide for the Spiritually Confused, Culturally Overloaded, and Chronically Online**  
->>>>>>> refs/remotes/origin/main
 
 Let’s be honest—grace doesn’t make sense. It’s not efficient. It doesn’t scale. You can’t monetize it. There’s no app for it, no influencer campaign that can capture its essence. Grace is the least marketable concept in the history of human ideas, and yet somehow it remains the only thing that actually works.
 
