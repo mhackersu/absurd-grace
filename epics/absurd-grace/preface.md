@@ -1,6 +1,3 @@
-Sure—here's a proposed preface and a full, detailed table of contents for *Absurd Grace*, keeping your themes of sacred responsibility, comedic critique, subversive social commentary, and the idea of grace through absurdity in mind:
-
----
 
 ## **Preface**  
 **Absurd Grace: A Field Guide for the Spiritually Confused, Culturally Overloaded, and Chronically Online**  
