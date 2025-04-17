@@ -12,7 +12,7 @@ The paradox of grace—unearned, infinite, and often seen as absurd by society.
 
 ### **Absurd Grace – Table of Contents**  
 
-#### **Part I: The Grift & The Gospel**  
+#### **Part I: [The Grift & The Gospel](./chapters/section-01-chapter-00-the-grift-and-the-gospel.md)**  
 1. **Big Mike**  
    _An icon, a microphone, a myth. A punchline with power._  
    - **Source(s):** Media Manipulation (Leibniz, Kierkegaard)  
