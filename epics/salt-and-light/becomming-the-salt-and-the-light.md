@@ -1,4 +1,4 @@
-% The Logic of Love
+% Becoming the Salt and Light
 % Michael Hacker
 % April 2025
 
