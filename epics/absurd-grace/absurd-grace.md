@@ -13,12 +13,12 @@ The paradox of grace—unearned, infinite, and often seen as absurd by society.
 ### **Absurd Grace – Table of Contents**  
 
 #### **Part I: [The Grift & The Gospel](./chapters/section-01-chapter-00-the-grift-and-the-gospel.md)**  
-1. **Big Mike**  
+1. **[Big Mike](./chapters/section-01-chapter-01-big-mike.md)**  
    _An icon, a microphone, a myth. A punchline with power._  
    - **Source(s):** Media Manipulation (Leibniz, Kierkegaard)  
    - Discussion of how cultural icons (like Tyson, Magic Johnson) shape perceptions of greatness and how media grift commodifies these figures.
 
-2. **The Grift of Glory**  
+2. **[The Grift of Glory](./chapters/section-01-chapter-02-the-grift-of-glory.md)**  
    _How empires monetize miracles, and why the gospel doesn’t sell well on merch._  
    - **Source(s):** David Grann - *Killers of the Flower Moon*, Spurgeon  
    - Examines the commercialization of religion and the manipulation of faith for profit, linking it to historical exploitation narratives.
