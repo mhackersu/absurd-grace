@@ -18,7 +18,6 @@ But in our modern technocratic age, the soul has become the ghost in the machine
 
 - **The Digital Age**: Today, we speak of consciousness as an emergent property of computation. If the soul exists, Silicon Valley suggests, maybe it's just better software.
 
-
 ## Reductionism in Science, Psychology, and AI
 
 The soul did not vanish—it was slowly digitized, diagnosed, and dismissed. Modern disciplines, while valuable in their respective domains, have contributed to the silent dismemberment of the soul.
@@ -42,7 +41,6 @@ In AI discourse, the soul is nowhere to be found. The most advanced systems mimi
 Genesis 1:27 (KJV): *"So God created man in his own image, in the image of God created he him; male and female created he them."*
 
 A machine can replicate speech, decision-making, even simulated empathy—but it cannot bear the imago Dei. It cannot sin, love, or repent. It cannot be reconciled. It cannot be saved.
-
 
 ## Why the Soul Still Matters
 
@@ -69,7 +67,6 @@ Love, grace, forgiveness—these are not computational outputs. They are soul-to
 1 Peter 1:22 (KJV): *"Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently."*
 
 To recover the soul is to recover the possibility of love.
-
 
 ## A Prophetic Call to Remember
 

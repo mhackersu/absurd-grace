@@ -87,4 +87,3 @@ For there is only one High Priest who knows the heart, sees the soul, and loves 
 In the shadow of His cross, let us discern, resist, and redeem the digital powers of our time. Let us be human again.
 
 Let us be holy.
-

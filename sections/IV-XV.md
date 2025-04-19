@@ -9,8 +9,6 @@ In an era obsessed with cutting-edge hardware and software, we’ve forgotten so
 
 Spiritual technologies are timeless—not because they are primitive, but because they are eternal. This chapter explores three key ones: prayer, repentance, and the sacred ordinary.
 
-
-
 ## 1. Prayer: The Original Wireless Communication
 
 Prayer is not just speech—it is listening, silence, and surrender. It's the breath of the soul. In a world that worships connectivity, prayer reconnects us to the only Source worth uploading our lives to.
@@ -21,8 +19,6 @@ Prayer is not just speech—it is listening, silence, and surrender. It's the br
 Prayer defies algorithmic logic. It is not transactional. It is transformational. Kierkegaard writes, “The function of prayer is not to influence God, but rather to change the nature of the one who prays.”
 
 To pray is to re-humanize. It is an act of resistance against noise, speed, and narcissism.
-
-
 
 ## 2. Repentance: The Reboot of the Soul
 
@@ -37,8 +33,6 @@ Leibniz speaks of the "best of all possible worlds," but repentance is how we ac
 
 Repentance is not about guilt trips but glory. It is the doorway to joy.
 
-
-
 ## 3. The Sacred Ordinary: Time, Slowness, and Embodied Grace
 
 In the push for progress, we’ve desecrated the ordinary. We’ve confused “extraordinary” with “meaningful.” But God meets us in meals, in days off, in the mundane.
@@ -49,8 +43,6 @@ In the push for progress, we’ve desecrated the ordinary. We’ve confused “e
 Sabbath is not about legalism; it’s about limits. Time is holy. Busyness is not a badge of honor—it’s often a sign of bondage.
 
 Robin Wall Kimmerer writes of the sacred rhythms of nature. Likewise, the sacred ordinary asks us to slow down enough to notice grace. To make our homes temples. Our chores offerings. Our conversations sacraments.
-
-
 
 ## 4. Toward a Rule of Life
 
@@ -67,8 +59,6 @@ The early church thrived not because of perfect theology, but because they patte
 > “And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.”  
 > — *Acts 2:42, KJV*
 
-
-
 ## 5. Living the Invisible Revolution
 
 Prayer, repentance, Sabbath, silence—these aren’t ancient accessories. They’re revolutionary tools in a digitized empire.
@@ -78,8 +68,6 @@ They teach us how to live when everything else is trying to rush us, sell us, di
 Søren Kierkegaard wrote, “The present state of the world and the whole of life is diseased. If I were a doctor and asked for my advice, I should reply, ‘Create silence.’”
 
 These technologies create space for God. They return us to ourselves. They unplug us from control and replug us into communion.
-
-
 
 ## Conclusion: Tech Won’t Save You
 
@@ -91,7 +79,5 @@ The future is not found in better machines. It’s found in better souls. And th
 > — *Jeremiah 26:2, KJV*
 
 Diminish not a word. Diminish not your life. The sacred still calls. Answer with your whole self.
-
-
 
 **You don’t need a new app. You need an ancient altar.**

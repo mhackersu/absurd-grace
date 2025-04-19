@@ -94,4 +94,3 @@ As Paul reminds us in 1 Corinthians 1:27 (KJV):
 Grace is the foolishness of God that confounds the world's wisdom. It is the cross. It is the resurrection. It is the logic of love that cannot be computed.
 
 And it is our only hope.
-

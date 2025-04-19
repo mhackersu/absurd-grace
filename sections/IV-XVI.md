@@ -12,8 +12,6 @@ This chapter is not a political manifesto—it is a theological provocation. A t
 
 This is a vision not of utopia, but of holiness in the public square.
 
-
-
 ## 1. The Crisis of Moral Imagination in Public Life
 
 Modern governance suffers from a moral void. Power is measured in economic output, political clout, or technocratic precision. But where is the heart? Where is the soul?
@@ -21,8 +19,6 @@ Modern governance suffers from a moral void. Power is measured in economic outpu
 Policy is written in code, not compassion. Bureaucracies are designed to manage populations, not to love people. As Charles Spurgeon once observed, “Of two evils choose neither.”
 
 There is no neutrality. Every law reveals a theology, every system implies an anthropology. When we govern without grace, we legislate a lesser view of humanity.
-
-
 
 ## 2. What Would Grace Look Like in Government?
 
@@ -64,8 +60,6 @@ In a system founded on grace, leaders wouldn’t be celebrities or tyrants. They
 
 The goal would not be electability but integrity. Not optics, but obedience to truth.
 
-
-
 ## 3. Gospel Governance: The Bible’s Political Imagination
 
 God has always had a public vision. The Law was social. The Prophets were political. Jesus wasn’t crucified for neutrality.
@@ -78,8 +72,6 @@ From the jubilee laws of Leviticus to the radical generosity of Acts 2, Scriptur
 
 This isn’t communism. It’s communion.
 
-
-
 ## 4. The Temptation of Theocracy (and Why Grace Resists It)
 
 Some will say: “If grace is so good, why not make it law?” But grace does not coerce. It invites.
@@ -90,8 +82,6 @@ Jesus never built a political party. He formed a body. His kingdom is not of thi
 > — *John 18:36, KJV*
 
 Governance rooted in grace must resist the temptation to dominate. The goal is not Christian nationalism—it is Christian witness.
-
-
 
 ## 5. A Thought Experiment: The Parliament of the Poor
 
@@ -114,8 +104,6 @@ Let us imagine a fictional government—The Parliament of the Poor.
 
 Absurd? Maybe. But grace is absurd. And it may be the only way out of the madness.
 
-
-
 ## 6. Resistance, Reform, and the Role of the Church
 
 The church is not called to run the state, but to remind it that the soul exists. We are the conscience, not the cabinet.
@@ -129,8 +117,6 @@ The gospel is not partisan, but it is political—because love has implications.
 
 To be salt is to sting, to preserve, to flavor the decay with holiness. To be light is to expose, to guide, to illuminate. We do not withdraw. We bear witness.
 
-
-
 ## Conclusion: Toward a Government of Grace
 
 Governance will never save us. But it can serve us. And it should not deform us.
@@ -143,7 +129,5 @@ The logic of love has political implications. And while the kingdom of God is no
 > — *Isaiah 9:7, KJV*
 
 That government is coming. Until then, we prepare the way—not through domination, but through grace.
-
-
 
 **A final word: Rule with mercy. Govern your home with grace. And remember, even the greatest empires will kneel before a Carpenter King.**

@@ -6,8 +6,6 @@ In a world obsessed with algorithms, optimization, and outcomes, the question of
 
 In this chapter, we will explore what moral logic actually is, how it differs from conventional logic, and why it is indispensable for reclaiming the human soul in an age of systems and simulations.
 
-
-
 ## Logic vs. Moral Logic
 
 At its root, logic is the study of valid inference, consistency, and reasoning. It is the framework by which propositions are tested and conclusions drawn. But logic, left alone, is morally agnostic. A flawless syllogism can justify a genocide if its premises are corrupt. Moral logic, by contrast, is the interior compass guided not only by reason but by virtue, by love, and by a higher law that transcends utility.
@@ -17,8 +15,6 @@ Moral logic is not merely about making the right decision; it's about becoming t
 > “The Law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.” —Psalm 19:7 (KJV)
 
 The wisdom of scripture is not a technical manual. It is a moral topography—map and compass in one—for a people called to walk in holiness, justice, and love.
-
-
 
 ## The Traditions Behind Moral Logic
 
@@ -36,8 +32,6 @@ While Greek ethics sought balance and harmony, the Hebraic tradition emphasized 
 
 > “He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?” —Micah 6:8 (KJV)
 
-
-
 ## Moral Logic in Practice: Love as the First Principle
 
 Jesus distilled the moral logic of all Scripture into two commands:
@@ -50,8 +44,6 @@ These are not sentimental suggestions. They are the axioms upon which every mora
 
 The parable of the Good Samaritan (Luke 10) illustrates how moral logic transcends social codes and tribal boundaries. The priest and the Levite, operating from ritual purity laws, ignore the injured man. The Samaritan, by contrast, embodies the logic of love, acting not from obligation but from compassion. This is moral logic: love applied in real time, regardless of cost.
 
-
-
 ## Divine Law and Moral Logic
 
 In his Institutes, Calvin argues that the moral law reflects God’s own character. The Ten Commandments are not arbitrary rules; they are revelations of God’s heart. To obey them is to live in truth.
@@ -62,8 +54,6 @@ God’s law is not a cage but a mirror. It shows us not only what we should do b
 
 > “For the law was given by Moses, but grace and truth came by Jesus Christ.” —John 1:17 (KJV)
 
-
-
 ## The Spirit and the Letter
 
 Paul writes:
@@ -71,8 +61,6 @@ Paul writes:
 > “Not that we are sufficient of ourselves… but our sufficiency is of God; Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.” —2 Corinthians 3:5-6 (KJV)
 
 Moral logic must avoid two extremes: legalism and relativism. The former calcifies truth into systems; the latter dissolves truth into sentiment. True moral logic is Spirit-animated—living, breathing, relational, and wise.
-
-
 
 ## Conclusion: Moral Logic as Sacred Grammar
 
@@ -85,4 +73,3 @@ The modern world reduces. The Kingdom of God restores.
 In the chapters to come, we will explore how moral logic operates at the edges of reason, in paradox, in sacrificial love, and in the individual conscience. For now, let us remember: the fear of the Lord is the beginning of wisdom, and moral logic is wisdom put into motion.
 
 > “The fear of the Lord is the beginning of wisdom: and the knowledge of the holy is understanding.” —Proverbs 9:10 (KJV)
-
