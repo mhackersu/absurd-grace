@@ -1,112 +1,55 @@
-# Chapter 1: Big Mike and the Gospel of the Grift
+# Chapter 1: **Big Mike and the Gospel of the Grift**  
+*Subtitle: The media machine, the myth of masculinity, and the sacred farce of influence.*
 
-Let us begin where all great American tragedies begin—on the stage.
+In today’s digital age, the line between faith and commerce is increasingly difficult to discern. The world of Christian media, particularly the “influencer-industrial complex,” has become a paradox: a place where the sacred and the profane collide in the pursuit of fame, fortune, and viral success. Big Mike—a name that’s become synonymous with the gospel of grift—embodies this strange intersection of faith, commerce, and spectacle. 
 
-The lights are bright. The music is loud. There are fog machines and wireless headsets and a man who looks like he bench-pressed Goliath himself pacing back and forth across a LED-lit platform. His name? It doesn’t matter. But for our purposes, let’s call him Big Mike.
+From YouTube sermons to Instagram stories, from branding to monetization, Big Mike and countless others like him have harnessed the power of social media to spread a message that blends charisma with consumerism, spiritual advice with lifestyle branding. But what happens when the gospel itself is turned into a marketing tool? What is the cost when faith becomes a product to be sold, packaged, and consumed? 
 
-Big Mike is not a person. Big Mike is a persona—a cultural icon, a distilled symbol of the loud, the strong, the successful, the anointed. He’s part preacher, part influencer, part motivational speaker, and entirely monetized. He offers a kind of gospel, but not the kind Paul would recognize. Big Mike’s gospel is the Gospel of the Grift: salvation through spectacle, redemption through relevance, holiness through hustle.
+This chapter dives into the rise of the media-driven preacher, the myth of masculinity in modern evangelicalism, and the larger question of how influence and power are mediated in a world where digital platforms dictate value. As we unpack the gospel of the grift, we will explore how this new brand of ministry merges with the allure of fame and the seduction of performance.
 
-Welcome to modern ministry.
 
-## A Tale of Two Kings
 
-The story of Big Mike is as old as Saul. Israel wanted a king, and they got one—tall, good-looking, and strong. The Bible tells us:
+## **The Media Machine: Preaching in the Age of Influence**
 
-> "And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people." — *1 Samuel 9:2, KJV*
+The media landscape today is an incredibly powerful force, capable of shaping lives, altering perceptions, and defining truth. Preachers who once depended on church pews and local congregations now rely on the vast, infinite reach of social media platforms to broadcast their messages. These platforms—Facebook, YouTube, Instagram, and Twitter—have become the new altars, where millions of virtual congregants gather to hear a sermon, buy a product, or click “like” on a motivational message. The media machine has taken over, and with it, the nature of preaching itself has changed.
 
-Saul looked the part. Just like Big Mike. Saul had the image, but he lacked the integrity. He had charisma, but not character. When the pressure came, he folded. When the crowd got loud, he disobeyed. He feared optics more than obedience.
+Big Mike is the epitome of this shift. His sermons, once delivered in the context of a humble church setting, are now broadcast to millions on YouTube, complete with slick edits, motivational music, and branding that could rival the most polished corporate campaigns. He is no longer just a pastor; he’s a lifestyle brand. His message is packaged, marketable, and monetized. And like so many others in his industry, his influence grows not by the quality of his theological insight but by the number of views, likes, and followers he can amass. The digital platform rewards viral content, not necessarily truth. 
 
-The Big Mike archetype thrives on this very fear—the fear of irrelevance. And in our current climate, irrelevance is equated with death. So Big Mike builds an empire to stay visible. His content is curated. His theology is tweet-sized. His pulpit has become a platform, and his altar is now an algorithm.
+The allure of digital fame is undeniable, but it comes with a price. The shift from “preaching the Word” to “building a brand” transforms the role of the minister. No longer is it about faithfully shepherding a congregation; it’s about feeding a machine that thrives on sensationalism, virality, and monetization. The media machine doesn't just report on religion—it shapes it, molds it, and commodifies it.
 
-## Spectacle Over Substance
 
-Søren Kierkegaard once wrote that the church had become a theater. In his time, he lamented:
 
-> “The present state of the Church is due to the fact that Christianity is taken for granted.”
+## **The Myth of Masculinity: Power, Performance, and the Gospel**
 
-Now, in our time, the Church isn’t just taken for granted—it’s taken for content.
+At the center of this phenomenon is the rise of a new kind of masculinity, one that is as performative as it is superficial. Big Mike, and others like him, embody this myth of the strong, unshakeable man of faith—proud, confident, and assertive. This “alpha male” persona is wrapped in the language of divine authority and power, but it is ultimately a performance. 
 
-We are living through the performance era of faith. Everything is recorded. Everything is posted. Even private moments of prayer are edited into reels with soft piano and cinematic slow-motion. What was once sacred is now stylized.
+Masculinity in the evangelical world has long been tied to notions of strength, dominance, and leadership. Big Mike leans into this narrative, presenting himself as the ultimate “man of God”—someone who not only preaches the gospel but also stands at the top of the social hierarchy. This hyper-masculine image, built on the foundation of strength and success, is marketed to a generation that equates power with influence, and influence with divine favor.
 
-Big Mike has mastered this. His gospel is not about dying to self; it’s about branding the self. He quotes Scripture, sure—but only the kind that sells. You won’t catch him lingering in Ecclesiastes. He’s not quoting Hosea’s heartbreak or Jeremiah’s tears. No, Big Mike sticks with the hits:
+But behind the mask of strength lies something much more fragile. The myth of masculinity in evangelical circles is not just about strength but about control. Men like Big Mike often frame their messages around the idea of “taking charge” of one’s life, dominating the world, and claiming victory over adversity. Yet this image is built on an illusion, a dangerous narrative that conflates spiritual authority with worldly success. It’s a message that thrives in a culture obsessed with external power and performance but fails to address the internal vulnerabilities that come with true spiritual leadership.
 
-> "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end." — *Jeremiah 29:11, KJV*
+The gospel, at its core, challenges this myth. Jesus did not come to display power as the world understands it—he came as a servant, a sacrificial figure who embraced weakness, humility, and suffering. The power of the cross is not one of dominance but of surrender, and it stands in stark contrast to the performative masculinity that permeates many modern faith movements.
 
-Pulled from context, packaged with a promise. Big Mike’s theology is therapeutic, not transformational. It’s designed for consumption, not conviction.
 
-## The Grift Explained
 
-The word “grift” implies exploitation. The grift in ministry is not new—it’s as old as Simon the sorcerer, who tried to buy the Holy Spirit with cash:
+## **The Sacred Farce: When Influence Becomes the Goal**
 
-> "Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money." — *Acts 8:20, KJV*
+In the world of Big Mike and others like him, the message of Christ is often obscured by the allure of fame and the drive for influence. The gospel, once a call to self-sacrifice and service, is repackaged as a platform for personal gain. Preaching becomes less about truth and more about branding; the focus shifts from salvation to self-promotion. It’s not just about what’s being preached—it’s about who is preaching it, and how they are selling themselves to the world.
 
-Big Mike is Simon in sneakers. The grift is subtle. It’s not always financial. Sometimes it’s social. Sometimes it’s influence. Sometimes it’s applause. But it’s always self-serving. It always exchanges the sacred for something sellable.
+The sacred farce lies in the way spiritual authority has become intertwined with consumer culture. The gospel of the grift is not just about the individual preacher; it’s about the system that supports them. It’s a system that thrives on the commodification of spirituality, where everything—from the sermon to the worship service—is turned into a marketable product. The line between sacred and secular is blurred, and what once was a sacred trust is now a business venture.
 
-The danger is not that Big Mike exists. The danger is that we’ve begun to admire him. To emulate him. To call what is counterfeit, authentic. To confuse gifting with godliness, influence with intimacy, noise with anointing.
+This farce is not only an issue within the church—it’s a reflection of a larger cultural trend, where success is defined by visibility, power, and influence, not by integrity, service, or truth. In this environment, faith becomes just another commodity, and the message of Christ becomes a means to an end, rather than the end itself.
 
-## Jesus and the Unmarketable Life
 
-Contrast Big Mike with Jesus.
 
-Jesus consistently rejected the stage. After healing, He told people to stay quiet (Mark 1:44). When the crowds wanted to crown Him, He disappeared (John 6:15). When Satan tempted Him to perform in the wilderness, Jesus declined every PR opportunity (Matthew 4).
+## **Reclaiming the Gospel: A Call to Authenticity**
 
-Christ did not build a brand. He built a cross.
+As the gospel of the grift continues to thrive in the digital age, there is a growing need for a return to authenticity. The message of Jesus—love, sacrifice, humility—has been co-opted by a system that values visibility over virtue, performance over purpose, and self-promotion over service. The question we must ask is: What happens when the gospel is no longer about Jesus but about the person delivering it?
 
-> "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me." — *Luke 9:23, KJV*
+Big Mike’s influence may be vast, but it is ultimately hollow if it does not point to something greater than himself. The true power of the gospel is not found in spectacle, but in surrender. It is not about amassing followers, but about guiding souls. The true preacher is not the one who builds an empire, but the one who leads others to Christ with humility, grace, and truth.
 
-Big Mike offers followers a crown without a cross, victory without surrender, platform without purification. But the way of Christ is different. It begins with loss. With death. With absurd grace.
+In this digital age, we must remember that influence is not inherently bad, but it must be used with integrity. The media machine may be here to stay, but it does not have to define the way we preach, live, or serve. If we are to reclaim the gospel, we must return to the heart of its message—one that transcends branding, performance, and viral fame. 
 
-## The Absurdity of God’s Choices
+As we navigate this world of media, influence, and performativity, the challenge is clear: We must resist the gospel of the grift and return to the true, unvarnished gospel of Christ. It’s not about what we can gain from our faith, but about what we can give—to God, to others, and to a world in desperate need of authenticity.
 
-God has a history of choosing the least likely.
 
-- He chose Moses—a stutterer—for public speaking.
-- He chose David—a shepherd boy over seven stronger brothers.
-- He chose Mary—a teenager in a backwater town to bear the Messiah.
 
-> "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;" — *1 Corinthians 1:27, KJV*
-
-The kingdom is upside-down. And grace, when properly understood, is offensive. It’s a rebuke to the Big Mike model. It reminds us that the meek inherit the earth, not the verified.
-
-## Influencer Culture and the Levitical Call
-
-There is an ancient role in Scripture that modern ministry would do well to revisit: the Levite.
-
-The Levites had no inheritance. No land. No brand. Their inheritance was the Lord (Numbers 18:20). They didn’t perform; they preserved. They carried the ark. They guarded the holy. They didn’t market the presence—they protected it.
-
-Modern ministry needs more Levites. People who aren’t building empires, but bearing burdens. People who aren’t selling the sacred, but serving it.
-
-Charles Spurgeon once warned:
-
-> “If sinners be damned, at least let them leap to Hell over our dead bodies.”
-
-Today, we might paraphrase: If people are scrolling to spiritual emptiness, let them do so past prophets who refused to perform.
-
-## Killing the Grift
-
-How do we kill the grift? Not with louder critiques, but deeper consecration. We don’t out-market Big Mike. We out-love him. We return to the absurd grace that made us fall in love with Jesus in the first place.
-
-> "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God." — *1 Corinthians 6:11, KJV*
-
-The Gospel of the Grift ends at the foot of the cross. Where marketing fails. Where metrics break. Where influence dissolves into ashes. And from those ashes, the real Church rises—not polished, not viral, but holy.
-
-## A Final Word
-
-You may feel pressure to perform. You may feel the draw of the platform, the hunger for validation. That’s okay. Confess it. Don’t hide it. We’re all recovering performers.
-
-But you do not have to build what Big Mike built. You do not need to become what this world demands. You were not made for the algorithm. You were made for the altar.
-
-Big Mike is loud.
-Jesus whispers.
-
-Big Mike sells.
-Jesus gives.
-
-Big Mike builds stages.
-Jesus builds tables.
-
-Come and sit. You don’t need to be seen. You need to be saved. You don’t need a platform. You need a Redeemer.
-
-And His name is not Mike.
-
-> "Come unto me, all ye that labour and are heavy laden, and I will give you rest." — *Matthew 11:28, KJV*

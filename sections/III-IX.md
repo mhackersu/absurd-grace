@@ -1,68 +1,60 @@
-# Chapter 9: The New Commandments: Loving God, Neighbor, and Self
+# Chapter 9: **Jesus Wasn’t Cool—And That’s the Point**  
+*Subtitle: A case for awkward, inconvenient, sacrificial love.*
 
-*“Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself.”*  
-— *Matthew 22:37-39, KJV*
+In a culture obsessed with coolness, influence, and viral appeal, the figure of Jesus Christ stands in stark contrast. He was not the archetype of charisma or popularity, nor was He concerned with fitting into the standards of His time. He did not chase after followers; instead, He called them to a way of life that was anything but "cool." In fact, Jesus was, by all worldly standards, deeply uncool. And yet, it is precisely this uncoolness that invites us into a radically different vision of love, one that is awkward, inconvenient, and, above all, sacrificial.
 
-## Introduction
 
-In a world that increasingly prioritizes individual rights and technological progress over relational ethics, the call to love God, neighbor, and self has never been more critical. These commandments are not simply theological ideas—they are revolutionary principles for living with purpose and moral clarity. By framing our lives around these three essential commands, we not only restore meaning to the human experience, but we also discover a pathway toward flourishing in a world desperately in need of grace, truth, and love.
 
-This chapter explores how these commandments—often reduced to simplistic moral slogans—are profound, deep, and transformative. They call for nothing less than a radical reordering of the way we live, think, and relate to one another. As we dive deeper into each of these commands, we will uncover a moral framework that transcends the mechanistic logic of the technocratic world.
+## **The Uncoolness of Jesus**
 
-## The First Commandment: Love God with All Your Heart, Soul, and Mind
+Let’s face it—Jesus was not "cool" in the way that we often define coolness today. He wasn’t the life of the party, the celebrity on the cover of magazines, or the influencer with millions of followers. He did not perform miracles to show off His power, nor did He deliver slick, catchy soundbites to win fans. Instead, He spent His time with the marginalized: tax collectors, sinners, the poor, and the sick. He hung out with those who had no social cachet, with people who were on the fringes of society. 
 
-The command to love God is the bedrock of Christian moral agency. It is not a suggestion, nor a convenient addendum to human life—it is the foundational principle from which all other moral obligations flow. To love God is to place Him at the center of our existence, to recognize that He is the ultimate source of our moral compass, our purpose, and our identity. In *Matthew 22:37-38 (KJV)*, Jesus summarizes this in one concise statement:
+In fact, He often said things that offended people. He told His followers to love their enemies, to turn the other cheek, to take up their cross and follow Him. These were not popular ideas, and they certainly weren’t "cool." They didn’t promise instant gratification or personal fame. They were hard teachings, ones that required deep introspection and radical obedience. 
 
-*“Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment.”*
+In John 6:66 (KJV), we read that "From that time many of his disciples went back, and walked no more with him." Why? Because Jesus’s teachings were difficult, and they didn’t align with the expectations of the crowd. He didn’t offer easy solutions or a path to social prestige. He offered something far more profound: a call to die to oneself and follow a countercultural way of love that stands in opposition to the fleeting trends of the world.
 
-This commandment challenges us to engage every aspect of our being in love for God. The heart, often associated with emotions, is called to love God deeply. The soul, representing our innermost essence, is meant to love God authentically and completely. The mind, which in our age is increasingly controlled by algorithms and data, is tasked with loving God through reason, intellect, and understanding. These three dimensions of the self—heart, soul, and mind—are all involved in the practice of loving God.
 
-### Loving God in the Age of Control
 
-In a society that emphasizes efficiency, production, and self-sufficiency, loving God with all our being can seem like an impossible task. The constant pressure to optimize and perform in every aspect of life—work, relationships, technology, and even spirituality—often leaves little room for genuine connection with God. But the true command to love God is not about doing more or being more efficient; it is about being present to Him, honoring His holiness, and embracing His love in our hearts, minds, and actions.
+## **The Cult of Coolness in the Modern World**
 
-This commandment is not contingent upon external circumstances; it calls us to an internal transformation, a reorientation of our entire lives around God’s presence. In a world that encourages self-reliance, this is a radical act of humility—recognizing that we are not our own, but are deeply loved by the Creator. By loving God first, we begin to reestablish a moral order that places divine wisdom above human ambition.
+In today's world, being "cool" is often equated with popularity, influence, and effortless style. Coolness is tied to power, image, and having a following. It is about fitting in, looking good, and being admired by others. We see this in the rise of social media influencers, celebrities, and brand ambassadors who curate their lives for the public eye, projecting an image of perfection and success. Coolness, in this sense, is transactional—it’s about what you can offer to others to make them like you.
 
-## The Second Commandment: Love Your Neighbor as Yourself
+But in the kingdom of God, coolness has little to do with what’s truly important. While the world seeks status, wealth, and recognition, Jesus calls us to seek humility, servanthood, and sacrificial love. He calls us to be "uncool" by the world’s standards. He calls us to follow Him, not because it will make us famous or liked, but because it will transform us into something more profound than the fleeting trends of modern culture.
 
-The second commandment, often seen as a corollary to the first, calls us to love our neighbors as ourselves. But how can we love others if we do not first love ourselves? To love our neighbors effectively, we must begin with an honest and grounded understanding of self-love—not in the narcissistic, self-centered sense, but in the deeper, healthier sense of recognizing our inherent worth as children of God.
 
-*“Thou shalt love thy neighbour as thyself.”*  
-— *Matthew 22:39, KJV*
 
-This commandment is deeply relational, emphasizing the need for self-awareness and compassion in our relationships with others. Loving our neighbors requires that we see them as equals, worthy of the same love, dignity, and respect that we afford ourselves. In the modern world, where we are constantly told to compete and compare, this commandment offers a countercultural vision: a vision of community, connection, and care.
+## **The Inconvenience of True Love**
 
-### The Dynamics of Loving Neighbor and Self
+Jesus’s love was inconvenient. It wasn’t the kind of love that fit neatly into a weekend Instagram post or a catchy TikTok video. It was messy. It was costly. It was full of sacrifice.
 
-The relationship between self-love and neighbor-love is reciprocal. If we do not honor and care for ourselves, we are less likely to have the emotional, spiritual, and mental capacity to care for others. In the *Golden Rule*—“Do unto others as you would have them do unto you” (Luke 6:31, KJV)—we see the fundamental moral principle that flows from loving ourselves properly. The more we understand our own value as created in God’s image, the more we can recognize that same value in others, no matter their station in life.
+Take, for example, the story of the Good Samaritan (Luke 10:25-37). Jesus told of a man who was beaten, robbed, and left for dead on the side of the road. A priest and a Levite, both respected figures, passed by without helping. But the Samaritan—a person from a group despised by Jews—stopped, took care of the man, and paid for his care. This story exemplifies the inconvenient nature of true love. It’s not about doing what is easy or comfortable; it’s about going out of your way to show compassion, even when it’s costly.
 
-In a society that often encourages self-sacrifice at the expense of personal well-being, the command to love oneself appropriately can feel counterintuitive. However, healthy self-love is the foundation for extending genuine love to others. To live this commandment is to recognize that love is not a finite resource—it is meant to flow freely from God’s abundant grace.
+Jesus Himself demonstrated the ultimate act of inconvenient love on the cross. In Mark 15:34 (KJV), He cried out, *"My God, my God, why hast thou forsaken me?"* In that moment, He experienced the weight of humanity’s sin and separation from God. His sacrifice wasn’t just a grand gesture; it was deeply personal, profoundly inconvenient, and completely sacrificial. It cost Him everything. It was, in every sense, uncool. And yet, it is the love that changes everything.
 
-## The Third Commandment: Love Yourself
 
-The third commandment might sound redundant to some, but the truth is that the self is often the most neglected aspect of human life. We live in a world that prioritizes achievement and external validation, yet we often neglect the inner life—the very self that God created and called “good.” Loving oneself, in the Christian sense, means acknowledging one’s inherent dignity and worth as a person made in the image of God.
 
-*“So God created man in his own image, in the image of God created he him; male and female created he them.”*  
-— *Genesis 1:27, KJV*
+## **The Call to Sacrificial Love**
 
-Loving oneself is not about self-centeredness or selfish ambition. It is about understanding our true worth in God’s eyes and accepting His love for us. It is also about caring for our bodies, minds, and spirits, so that we can serve God and others with integrity and strength.
+Jesus’s love wasn’t just inconvenient—it was sacrificial. His love was not about getting something in return, not about being admired or appreciated. It was a love that sought nothing but the good of the other person. In John 15:13 (KJV), He said, *"Greater love hath no man than this, that a man lay down his life for his friends."* True love, as exemplified by Jesus, isn’t about convenience or mutual benefit—it’s about laying down your life for others, even when it’s hard, even when it’s painful, and even when it’s not "cool."
 
-### Reclaiming Self-Love in the Age of Social Comparison
+In the modern world, the idea of sacrificial love is often dismissed as naïve or unrealistic. We are told that love should be self-fulfilling, that we should expect something in return for our efforts. But Jesus’s love was a love that asked for nothing in return. He loved, not because it was easy or glamorous, but because it was the will of the Father. He loved sacrificially because that is the nature of divine love.
 
-In the digital age, self-worth is often determined by likes, shares, and online validation. The constant barrage of social media creates an environment where people compare their lives to the curated images of others, which leads to feelings of inadequacy and self-doubt. But true self-love cannot be rooted in external approval; it must come from an internal conviction of our value before God.
 
-By rejecting the metrics of comparison, we begin to reclaim our sense of self-worth. This does not mean rejecting the influence of others entirely, but rather learning to see ourselves through God’s eyes, recognizing that we are loved and valued not for what we produce, but for who we are.
 
-## Living the New Commandments Today
+## **Awkward Love in a "Cool" World**
 
-These commandments—loving God, loving our neighbors, and loving ourselves—are not theoretical ideals but practical instructions for daily living. They challenge us to live in a way that is countercultural, relational, and deeply rooted in truth. To live these commandments is to resist the forces of dehumanization that seek to reduce us to mere data points or commodities.
+The love that Jesus calls us to is often awkward, uncomfortable, and countercultural. It’s the love that calls us to serve when others ignore, to forgive when others hold grudges, and to extend grace when others judge. It’s the love that chooses humility over pride, self-sacrifice over self-promotion, and reconciliation over division.
 
-In the age of technocratic control and digital manipulation, these commandments call us to reorient our lives around the most important things: our relationship with God, our relationships with others, and our relationship with ourselves. These are the eternal truths that transcend technology, algorithms, and human-made systems of power. They are the moral foundation upon which a true culture of grace and love can flourish.
+In a world that glorifies coolness, this kind of love can feel awkward. It doesn’t fit neatly into our cultural narrative of success and power. It doesn’t come with a following or a fanbase. It’s inconvenient. It’s messy. And yet, it is the most powerful force in the universe. It is the love that saves, heals, and transforms. It is the love that, despite its awkwardness, still speaks to the deepest places of our souls.
 
-## Conclusion
+In 1 Corinthians 1:27 (KJV), Paul writes, *"But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty."* Jesus, in His uncoolness, in His awkwardness, in His sacrificial love, confounds the wisdom of the world. He calls us to live lives that are anything but cool by the standards of the world. But in doing so, He invites us into a deeper, more profound kind of love—one that is rooted in selflessness, sacrifice, and radical devotion.
 
-The New Commandments provide us with a moral framework that resists the reductionism of modern society. They call us to love God with all our being, to love our neighbors as ourselves, and to reclaim our sense of self-worth in the light of God’s love. In doing so, we participate in the divine order that transcends human systems of control and reclaim our moral agency. These commandments are not optional—they are the path to true freedom and flourishing in an increasingly mechanized world.
 
-*“By this shall all men know that ye are my disciples, if ye have love one to another.”*  
-— *John 13:35, KJV*
-```
+
+## **Conclusion: The Love That Changes Everything**
+
+Jesus wasn’t cool. He didn’t fit into the expectations of His time, and He certainly didn’t cater to the crowd. And yet, it is precisely because He wasn’t cool that He offers us a love that is deeper, truer, and more lasting than anything this world can offer.
+
+In a world obsessed with image, popularity, and influence, Jesus’s love calls us to something entirely different. It calls us to a love that is awkward, inconvenient, and sacrificial. It calls us to love as He loved—without reservation, without condition, and without expectation of reward.
+
+Jesus’s love wasn’t cool—but that’s the point. It’s not about being cool. It’s about being faithful. It’s about living out a love that transforms us, even when it costs us everything. And that, in the end, is the kind of love the world desperately needs.

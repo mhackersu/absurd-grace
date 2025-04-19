@@ -1,79 +1,66 @@
-# Chapter 6: The Ethical Frameworks Reimagined
+# Chapter 6: **Anointing Oil, Sponsored by Amazon**  
+*Subtitle: Late-stage capitalism and the rise of influencer spirituality*
 
-*“The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.”*  
-— *Proverbs 9:10, KJV*
+In an age where everything seems to be for sale, from self-help books to personal transformation seminars, it’s no surprise that even spirituality has been commodified. The rise of influencer culture, with its carefully curated images and tailored messaging, has reshaped how we think about faith, wellness, and personal growth. Today, we see pastors, spiritual leaders, and influencers alike turning spiritual practices into marketable content. They offer everything from "anointed" oils for sale on Amazon to exclusive online courses on how to experience "prophetic" dreams or manifest your destiny. The line between the sacred and the commercial has blurred, and in this new world, the gospel has become just another commodity in the marketplace.
 
-## Introduction
-
-We are living in an age where ethical discourse has become transactional, algorithmic, and increasingly performative. The moral language of the past—rooted in conscience, virtue, and divine order—has been eroded by systems that prioritize utility, optimization, and control. In this chapter, we will not only critique these contemporary distortions but also reimagine ethical frameworks by returning to their roots in relationality, transcendence, and grace.
-
-To do this, we will revisit classical moral traditions—Kantian duty, Aristotelian virtue, and Kierkegaardian paradox—and consider their relevance in a world dominated by machines and metrics. Through each lens, we will look for the logic of love, culminating in the ethical framework embodied by Jesus Christ.
-
-## Kant: Duty, Reason, and the Categorical Imperative
-
-Immanuel Kant offered one of the most influential ethical systems in Western thought. His **categorical imperative** demands that we act only according to maxims we would will as universal law. For Kant, morality is rooted in reason and duty, not consequence or emotion.
-
-Yet while Kant’s rigor has appeal in a confused age, it can become cold, rigid, and disconnected from the lived experience of grace. The gospel introduces something Kant could not compute: the absurd generosity of God’s love. Where Kant says “Do your duty,” Christ says, *“Greater love hath no man than this, that a man lay down his life for his friends”* (John 15:13, KJV).
-
-Kant's system lacked space for forgiveness, for undeserved love, for paradox. His ethical framework reaches its limit at Calvary.
-
-## Kierkegaard: The Leap of Faith and the Knight of Infinite Resignation
-
-Søren Kierkegaard, the Danish father of existentialism, offers a contrasting vision. In *Fear and Trembling*, he introduces the “knight of faith”—a solitary figure who embraces the paradox of divine command and individual responsibility. Abraham’s willingness to sacrifice Isaac becomes, for Kierkegaard, the ultimate ethical test.
-
-Modern ethics has no room for such a figure. The algorithm does not compute paradox. It cannot conceive of a world in which obedience to God transcends human logic. Yet Kierkegaard insists: *“The crowd is untruth.”* The knight of faith must stand alone.
-
-This existential stand, grounded in the absurdity of grace, reminds us that moral logic is not reducible to rules or trends. *“For we walk by faith, not by sight”* (2 Corinthians 5:7, KJV).
-
-## Aristotle: Virtue as Habit and Flourishing
-
-Before Kant and Kierkegaard, Aristotle envisioned a moral life not as strict duty or paradox, but as **virtue in practice**. His concept of *eudaimonia*—human flourishing—was achieved through the cultivation of habits like courage, temperance, and justice.
-
-In our time, virtue is too often caricatured as self-help or moralistic branding. But Aristotle understood what TikTok cannot: that virtue requires repetition, mentorship, and embodied practice. He would have understood Paul’s charge to the Galatians: *“But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance”* (Galatians 5:22-23, KJV).
-
-Modern life is structured to produce vice: impatience, envy, wrath. The restoration of virtue requires both resistance and cultivation—a radical retraining of the moral imagination.
-
-## Christ: Love as Fulfillment of the Law
-
-All of these traditions, powerful as they are, find their completion in the person of Jesus Christ. His moral teaching does not merely add to Aristotle, Kant, or Kierkegaard. It transfigures them.
-
-*“Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets.”* (Matthew 22:37–40, KJV)
-
-Where Aristotle emphasizes habit, Christ demands transformation. Where Kant insists on duty, Christ points to sacrificial love. Where Kierkegaard speaks of paradox, Christ is the paradox incarnate—God become man, justice become mercy.
-
-Christ’s ethic is not a system. It is a relationship. A way. A Person. *“I am the way, the truth, and the life: no man cometh unto the Father, but by me.”* (John 14:6, KJV)
-
-## Ethics in an Algorithmic Age
-
-As we reimagine ethical frameworks today, we must recognize the false gods of modernity: efficiency, scalability, optimization. These are not moral categories. They are managerial ones.
-
-But the gospel resists such flattening. Christ disrupts every ethical calculator with the incalculable: *“Forgive seventy times seven.”* (Matthew 18:22, KJV)  
-He welcomes the undeserving, dines with sinners, and redefines greatness through service.
-
-We cannot program this ethic. We can only receive it—and then live it out in trembling faith.
-
-## Toward a Moral Renaissance
-
-If we are to reclaim moral agency, we must teach our children not only to code but to *care*. Not only to comply but to *love*. Not only to analyze but to *forgive*. This is not optional. It is essential.
-
-In the ruins of moral certainty, grace arises like a phoenix. Not as cheap forgiveness, but as costly love. Not as vague tolerance, but as sacred responsibility.
-
-Let us then live by this ethic:  
-*“He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?”* (Micah 6:8, KJV)
+But this begs the question: When spirituality becomes a business, does it retain its power, or does it become just another product to be consumed?
 
 
 
-## Reflection Questions
+## **The Sacred and the Secular: A Blurred Line**
 
-1. How does each moral framework (Kantian, Kierkegaardian, Aristotelian) illuminate aspects of Christ's teaching—and where do they fall short?
-2. What are some modern "virtues" that are actually vices in disguise?
-3. How can spiritual disciplines help re-cultivate virtue in a distracted culture?
-4. Where in your own life do you sense the tension between grace and law?
+The roots of spirituality have always been about transcendence, about connecting with the divine. It’s about stepping into a reality that goes beyond the material world. Yet, in late-stage capitalism, the sacred has increasingly been reduced to the profane. In a world where Instagram influencers can sell you everything from diet plans to soul-searching workshops, why should spirituality be any different?
 
+Influencers in the faith space have capitalized on this, turning their platform into a marketplace. Pastors now have merchandise lines, prayer leaders host paid events, and “anointed” products such as oils, bracelets, and candles are sold with promises of divine favor. These digital saints tell their followers that their personal blessings can be purchased if you just “tap that link in bio” or “use my code for 15% off your blessing.”
 
+Yet, the question arises: Can anointing oil truly be “anointed” if it’s marketed alongside a new line of branded merchandise? Can a prayer be authentic when it's packaged in a subscription service?
 
-## Conclusion
-
-Moral logic must be reclaimed not through coercion or computation, but through encounter. Through the strange, disarming, liberating logic of love.
+The Bible speaks about sacred anointing oil in Exodus 30:25 (KJV), *"And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil."* This sacred oil was meant to consecrate the holy things of the temple, and its use was imbued with spiritual significance. But in the world of influencer spirituality, we see anointing oil being reduced to a commodity, available at the click of a button. The question we must ask is whether the sanctity of the practice remains when it is branded and sold like any other product on the market.
 
 
+
+## **Influencer Spirituality: The Business of Blessings**
+
+In the world of influencer culture, everything becomes a product, and spirituality is no exception. Influencers often present themselves as spiritual guides, using their platforms to share personal stories of faith, self-improvement, and divine encounters. While many of these influencers provide genuine inspiration and encouragement, there’s also a darker side to this phenomenon. The rise of influencer spirituality represents a troubling trend in which the sacred is commodified for profit.
+
+A prime example of this trend is the "prayer influencer" on social media, who offers prayer sessions for a fee or promises spiritual transformation in exchange for a subscription. These influencers operate in a space that blurs the lines between personal transformation and marketing strategy. In many ways, they embody the rise of the "business of blessings."
+
+The question becomes, at what point does the integrity of the message get lost in the pursuit of profit? Is it still the gospel when it is packaged, branded, and sold with a price tag? And when does the focus on personal transformation shift into an exercise in personal branding and self-promotion?
+
+
+
+## **The Prosperity Gospel 2.0: Capitalizing on Faith**
+
+The rise of influencer spirituality is not a new phenomenon. It is, in many ways, an extension of the prosperity gospel that emerged in the 20th century. The prosperity gospel, with its emphasis on material wealth as evidence of divine favor, paved the way for the commercialization of faith. It teaches that financial prosperity and physical health are signs of God’s blessing and that if you sow enough seed (read: money), you will reap abundant blessings. 
+
+But where the prosperity gospel focused primarily on wealth as an indicator of divine favor, influencer spirituality brings an even more insidious form of commodification to the faith. It’s no longer just about money; it’s about personal branding, social media clout, and engagement metrics. Influencers are no longer merely preachers of the Word—they are also marketers, advertising their own lives, lifestyles, and products to a captive audience.
+
+This is where late-stage capitalism intersects with spirituality. As influencer spirituality grows, it becomes a highly lucrative market that thrives on cultivating a sense of scarcity and desire. By creating a sense of "lacking" in their audience—whether it’s the promise of divine health, wealth, or favor—they encourage people to buy into the idea that spirituality is something that must be obtained or purchased. The more followers they amass, the more marketable their "spirituality" becomes.
+
+
+
+## **Spiritual Capitalism: The Pricing of the Sacred**
+
+As we move further into an age dominated by influencer culture and digital commerce, we must ask ourselves: What is the price of spirituality? In a world where social media followers are counted like currency, spiritual influencers leverage their platforms to sell more than just products—they sell identity, fulfillment, and meaning. But are these offerings truly sacred?
+
+Spiritual capitalism is the process by which faith, spirituality, and divine experiences are packaged as products to be consumed. Consider the countless "faith-based" subscription services, where one can pay for access to exclusive prayers, teachings, or prophecies. These products promise a more fulfilling life, a deeper connection to God, or even financial prosperity, all in exchange for a subscription fee.
+
+This digital marketplace has turned faith into an experience that is monetized, commodified, and branded for maximum appeal. Just like buying a trendy workout plan or the latest gadget, believers now pay for a curated spiritual experience that is tailored to their needs and desires. This trend reflects the greater commodification of all aspects of life in late-stage capitalism.
+
+
+
+## **The Theology of Clicks: The Dangers of a Digital Gospel**
+
+The commodification of faith represents a subtle but dangerous distortion of the gospel message. The gospel was never meant to be a product. It was never intended to be sold for a fee, nor was it ever designed to be consumed in bite-sized, marketable chunks. In Matthew 10:8 (KJV), Jesus says, *"Freely ye have received, freely give."* This is the call of the gospel—to give freely and generously, without expecting anything in return. Yet, in the world of influencer spirituality, we see the opposite. The gospel is now being sold as a brand, with followers asked to buy into the “lifestyle” of a certain spiritual influencer.
+
+There’s a risk that the authenticity of the gospel message will be lost in the noise of the digital marketplace. The sacred message of salvation and redemption cannot and should not be commodified. When faith becomes a product to be marketed, it loses its transformative power.
+
+
+
+## **Conclusion: The Reclaiming of the Sacred**
+
+While influencer spirituality may offer many conveniences in an age where everything is available at the click of a button, it comes at a cost. The commercialization of spirituality dilutes its power, turning sacred practices into mere transactions. What we must remember is that the essence of faith is not something that can be bought or sold. It is a personal, transformative encounter with the divine, one that is not dependent on likes, shares, or followers.
+
+In a world where everything seems to be for sale, we must reclaim the sacred. Spirituality is not a product—it is a journey. The anointing oil, once a symbol of consecration and holiness, should not be reduced to a marketable item on a shelf. Instead, it should serve as a reminder of the call to holiness, to purity, and to a life of sacrificial love.
+
+In the end, the gospel cannot be monetized. It is a free gift given to all who will receive it. And in that gift, we find the true meaning of spiritual transformation—one that transcends the digital marketplace and connects us with the eternal.
