@@ -2,6 +2,13 @@
 
 In a world that demands constant attention, love, and care, the challenge to remain present can feel insurmountable. From the digital screens that beckon us away from those around us to the call to love those we can't see, these chapters explore the tension between our digital lives and our spiritual commitments. Through radical love, sacrificial service, and a return to sacred slowness, we can find a way to reclaim the true meaning of community and devotion.
 
+## **The Algorithm Will Not Save You**
+In a world addicted to curated coolness, influence metrics, and algorithmic validation, this chapter launches a sharp, satirical rebuke of the cultural idol of being "cool"—especially within the church. Using the uncoolness of Jesus as its theological anchor, the chapter argues that the love Christ embodied and commands is awkward, inconvenient, and profoundly sacrificial—precisely because it refuses to conform to the world’s obsession with image.
+
+Through echoes of Kierkegaard’s “offense of Christianity,” Bonhoeffer’s “cost of discipleship,” and Eugene Peterson’s call to slow, faithful obedience, the text critiques how modern ministry often mirrors marketing strategies rather than the messy, unglamorous love of Christ. The chapter skewers influencer culture in Christian circles with biting satire while tenderly inviting readers into a deeper, more faithful way of being—one rooted in discomfort, humility, and relational inconvenience.
+
+The takeaway is clear: awkward love—the kind that listens long, serves quietly, forgives extravagantly, and seeks no spotlight—is the most divine and disruptive force in a world that prefers branding over bearing burdens. Jesus wasn’t cool. He was holy. And holiness, in its truest form, is rarely trending.
+
 ## **Learning to Love (Even When You’d Rather Scroll)**
 
 In a time when digital distractions are ubiquitous, learning to love in the midst of constant noise is an act of rebellion. Our attention is fragmented, scattered across endless notifications and the compulsive pull of social media. Yet, the call to love our neighbors, to be present in each moment, has never been more urgent.
@@ -20,13 +27,4 @@ The cross remains one of the most powerful symbols in Christian faith. But in to
 
 As we live in a culture of performativity, where everything is a spectacle, the cross stands in stark contrast—offering a message of humility, vulnerability, and sacrificial love. Theologians throughout history have grappled with the paradox of the cross, and it continues to challenge us to rethink what true power and influence mean in a world that glorifies spectacle.
 
-## **Sacred Slowness: Sabbath as Civil Disobedience**
-
-In a society that prizes speed, efficiency, and constant productivity, the practice of Sabbath becomes an act of civil disobedience. Sacred slowness is not just about rest—it is a resistance against the demands of hustle culture and a rejection of the idol of busyness. By choosing to slow down, we reclaim the sacred space for reflection, prayer, and community.
-
-The Levitical traditions surrounding rest and holiness remind us that rest is not optional; it is a command. The practice of Sabbath invites us to resist the constant pressure of digital life and reconnect with our bodies, our communities, and our Creator.
-
-
-
 These chapters further explore the tension between digital distractions, the commodification of spirituality, and the call to live out authentic, sacrificial love. In the next section, we will explore how we can reframe ministry in a hyperconnected world and rediscover the grace that is not packaged for profit.
-
