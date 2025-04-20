@@ -2,13 +2,11 @@
 
 In the age of digital media, where every post has the potential to go viral and influence is often measured by clicks, likes, and shares, the intersection of religion and media has become more complex than ever. The themes explored in this first section, from the commercialization of faith to the role of influencers in spirituality, challenge the traditional notions of ministry, responsibility, and sacred duty.
 
-## **Big Mike and the Gospel of the Grift**
+## **The Gospel According to Big Mike**
 
-The media landscape today is saturated with figures who claim to offer “truth” but are, in reality, peddling a distorted version of the gospel. The rise of personalities like Big Mike in the world of evangelical Christianity highlights the commercialization of the message of faith. Instead of preaching the gospel of selflessness, figures such as Big Mike perpetuate a gospel of consumerism, wrapped in the language of faith. 
+In a culture obsessed with fame, image, and algorithmic validation, Chapter 1 critiques how modern society repackages greatness into consumable icons—figures like Michael Jordan, Michael Jackson, and celebrity preachers—transforming the divine imago Dei into a marketable brand. Drawing on voices like Kierkegaard, Spurgeon, and Kimmerer, the chapter explores how this commodification distorts our understanding of faith, identity, and the nature of God.
 
-Søren Kierkegaard’s existential philosophy helps us understand the internal conflict within the Christian community, where faith is reduced to a performance, and the idea of authenticity is overshadowed by the pursuit of visibility. The prosperity gospel and its modern-day variants thrive on promises of wealth and success, often exploiting the very faith that should lead to humility and sacrifice.
-
-These figures rely on the media machine to build their empire, capitalizing on the public’s desire for easy answers and instant gratification. Charles H. Spurgeon’s timeless emphasis on grace and repentance serves as a stark contrast to these flashy leaders who avoid the deep, often uncomfortable truths of the Christian walk.
+The chapter satirizes influencer culture with love and theological depth, arguing that grace stands in radical opposition to the logic of branding. Grace, unlike curated personas, cannot be optimized or sold. Instead, it invites a quieter, deeper kind of greatness—one rooted in presence, humility, and a return to embodied faith. Through this lens, the chapter calls readers to exit the matrix of performance and embrace the absurd beauty of unmarketable grace.
 
 ## **Holy LOL: The Meme-ification of Jesus**
 

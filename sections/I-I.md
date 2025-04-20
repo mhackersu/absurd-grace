@@ -1,55 +1,51 @@
-# Chapter 1: **Big Mike and the Gospel of the Grift**  
-*Subtitle: The media machine, the myth of masculinity, and the sacred farce of influence.*
+Chapter 1: The Gospel According to Big Mike
 
-In today’s digital age, the line between faith and commerce is increasingly difficult to discern. The world of Christian media, particularly the “influencer-industrial complex,” has become a paradox: a place where the sacred and the profane collide in the pursuit of fame, fortune, and viral success. Big Mike—a name that’s become synonymous with the gospel of grift—embodies this strange intersection of faith, commerce, and spectacle. 
+It begins, as all modern myths do, with a montage.
 
-From YouTube sermons to Instagram stories, from branding to monetization, Big Mike and countless others like him have harnessed the power of social media to spread a message that blends charisma with consumerism, spiritual advice with lifestyle branding. But what happens when the gospel itself is turned into a marketing tool? What is the cost when faith becomes a product to be sold, packaged, and consumed? 
+The camera pans across the faces of greatness: Michael Jordan levitating above defenders, tongue out, Nike-clad feet defying physics. Cut to Michael Jackson moonwalking across the stage, sequined glove catching the spotlight. Then a montage of mega-preachers with million-dollar smiles, bathed in LED lights and fog machines, speaking in hashtags and sermon series titles that sound suspiciously like TED Talks.
 
-This chapter dives into the rise of the media-driven preacher, the myth of masculinity in modern evangelicalism, and the larger question of how influence and power are mediated in a world where digital platforms dictate value. As we unpack the gospel of the grift, we will explore how this new brand of ministry merges with the allure of fame and the seduction of performance.
+Enter the age of Big Mike.
 
+The Algorithm of Glory
 
+Greatness, in this world, is no longer a calling—it’s a campaign. And Big Mike isn’t a person; he’s a prototype. Jordan. Jackson. That other Big Mike with the mic and the merch. Together they form the Holy Trinity of Influence: talent, image, and ubiquity. What once required prophets now only demands production value.
 
-## **The Media Machine: Preaching in the Age of Influence**
+We live under the rule of the curated self. But this isn’t just a cultural footnote; it’s a theological crisis. In a world where identity is algorithmically reinforced, what room is there for the unquantifiable grace of God? We’ve gone from imago Dei to imago Brand.
 
-The media landscape today is an incredibly powerful force, capable of shaping lives, altering perceptions, and defining truth. Preachers who once depended on church pews and local congregations now rely on the vast, infinite reach of social media platforms to broadcast their messages. These platforms—Facebook, YouTube, Instagram, and Twitter—have become the new altars, where millions of virtual congregants gather to hear a sermon, buy a product, or click “like” on a motivational message. The media machine has taken over, and with it, the nature of preaching itself has changed.
+As Søren Kierkegaard might say—were he tweeting from a blue-check account—we are a generation in despair, not because we have too little, but because we are too much: too seen, too staged, too sold. He called it the sickness unto death. We might call it the sickness unto likes.
 
-Big Mike is the epitome of this shift. His sermons, once delivered in the context of a humble church setting, are now broadcast to millions on YouTube, complete with slick edits, motivational music, and branding that could rival the most polished corporate campaigns. He is no longer just a pastor; he’s a lifestyle brand. His message is packaged, marketable, and monetized. And like so many others in his industry, his influence grows not by the quality of his theological insight but by the number of views, likes, and followers he can amass. The digital platform rewards viral content, not necessarily truth. 
+Manufactured Transcendence
 
-The allure of digital fame is undeniable, but it comes with a price. The shift from “preaching the Word” to “building a brand” transforms the role of the minister. No longer is it about faithfully shepherding a congregation; it’s about feeding a machine that thrives on sensationalism, virality, and monetization. The media machine doesn't just report on religion—it shapes it, molds it, and commodifies it.
+Grace, by contrast, refuses to go viral. It doesn’t fit the brand strategy. It cannot be quantified, monetized, or streamlined into a YouTube ad campaign. Charles Spurgeon didn’t need a drone shot or a soundboard—he had tears, a cracked voice, and the Word. The Spirit doesn’t descend through Wi-Fi. It groans through the cracked ceilings of humility.
 
+The world hands us idols—polished and palatable. We bow, not before golden calves, but golden brands. And while Leibniz tried to justify the ways of God with elegant logic, today we justify the ways of God by engagement metrics and influencer partnerships. But the calculus of heaven cannot be computed in impressions. It’s more absurd than that. It’s grace.
 
+A Box Made of Mirrors
 
-## **The Myth of Masculinity: Power, Performance, and the Gospel**
+We’re not just trapped in the matrix; we’re subscribing to it monthly. The great reversal has occurred. Up is down. The first are last. And greatness now comes shrink-wrapped and endorsed by sneaker lines. The danger isn’t that we admire excellence—it’s that we mistake spectacle for substance. As Kant would warn, we’ve replaced duty with dopamine.
 
-At the center of this phenomenon is the rise of a new kind of masculinity, one that is as performative as it is superficial. Big Mike, and others like him, embody this myth of the strong, unshakeable man of faith—proud, confident, and assertive. This “alpha male” persona is wrapped in the language of divine authority and power, but it is ultimately a performance. 
+But the gospel doesn’t play by these rules. It shows up in manger hay, not prime time. It rides donkeys, not limousines. It is foolishness to the Greeks, scandal to the Jews, and shadowbanned by modernity.
 
-Masculinity in the evangelical world has long been tied to notions of strength, dominance, and leadership. Big Mike leans into this narrative, presenting himself as the ultimate “man of God”—someone who not only preaches the gospel but also stands at the top of the social hierarchy. This hyper-masculine image, built on the foundation of strength and success, is marketed to a generation that equates power with influence, and influence with divine favor.
+Exit the Brand
 
-But behind the mask of strength lies something much more fragile. The myth of masculinity in evangelical circles is not just about strength but about control. Men like Big Mike often frame their messages around the idea of “taking charge” of one’s life, dominating the world, and claiming victory over adversity. Yet this image is built on an illusion, a dangerous narrative that conflates spiritual authority with worldly success. It’s a message that thrives in a culture obsessed with external power and performance but fails to address the internal vulnerabilities that come with true spiritual leadership.
+Grace is the last free thing. And it begins when we unplug—not just from devices, but from delusions. It begins when we stop scrolling and start seeing. When we stop performing and start confessing. When we stop asking, “How can I be followed?” and start asking, “Who am I following?”
 
-The gospel, at its core, challenges this myth. Jesus did not come to display power as the world understands it—he came as a servant, a sacrificial figure who embraced weakness, humility, and suffering. The power of the cross is not one of dominance but of surrender, and it stands in stark contrast to the performative masculinity that permeates many modern faith movements.
+Robin Wall Kimmerer reminds us that real knowing is relational. You cannot commodify a tree. You cannot trend a sacrament. You cannot brand the breath of God.
 
+The real path to greatness—the kind Kierkegaard called the "Knight of Faith"—looks more like obscurity than fame. It looks like holding fast to what is unseen. Like trusting in absurd grace when everything around you says, "monetize or die."
 
+So, no, this isn’t a takedown of Big Mike. It’s a letter to the soul he leaves behind.
 
-## **The Sacred Farce: When Influence Becomes the Goal**
+The Sacred Unbranding
 
-In the world of Big Mike and others like him, the message of Christ is often obscured by the allure of fame and the drive for influence. The gospel, once a call to self-sacrifice and service, is repackaged as a platform for personal gain. Preaching becomes less about truth and more about branding; the focus shifts from salvation to self-promotion. It’s not just about what’s being preached—it’s about who is preaching it, and how they are selling themselves to the world.
+Grace says you don’t have to be spectacular to be beloved. You don’t have to be consumable to be worthy. Your story is not your sales pitch. Your soul is not a statistic. You are not a brand. You are a human being, created in the image of a God who flipped the script on greatness by washing feet, not winning followers.
 
-The sacred farce lies in the way spiritual authority has become intertwined with consumer culture. The gospel of the grift is not just about the individual preacher; it’s about the system that supports them. It’s a system that thrives on the commodification of spirituality, where everything—from the sermon to the worship service—is turned into a marketable product. The line between sacred and secular is blurred, and what once was a sacred trust is now a business venture.
+The world says, “Build a platform.” The gospel says, “Carry a cross.”
 
-This farce is not only an issue within the church—it’s a reflection of a larger cultural trend, where success is defined by visibility, power, and influence, not by integrity, service, or truth. In this environment, faith becomes just another commodity, and the message of Christ becomes a means to an end, rather than the end itself.
+And that, dear reader, is the absurdity that might just save you.
 
+Light a candle. Step out of the feed. Reclaim the holy ridiculousness of unmarketable grace.
 
-
-## **Reclaiming the Gospel: A Call to Authenticity**
-
-As the gospel of the grift continues to thrive in the digital age, there is a growing need for a return to authenticity. The message of Jesus—love, sacrifice, humility—has been co-opted by a system that values visibility over virtue, performance over purpose, and self-promotion over service. The question we must ask is: What happens when the gospel is no longer about Jesus but about the person delivering it?
-
-Big Mike’s influence may be vast, but it is ultimately hollow if it does not point to something greater than himself. The true power of the gospel is not found in spectacle, but in surrender. It is not about amassing followers, but about guiding souls. The true preacher is not the one who builds an empire, but the one who leads others to Christ with humility, grace, and truth.
-
-In this digital age, we must remember that influence is not inherently bad, but it must be used with integrity. The media machine may be here to stay, but it does not have to define the way we preach, live, or serve. If we are to reclaim the gospel, we must return to the heart of its message—one that transcends branding, performance, and viral fame. 
-
-As we navigate this world of media, influence, and performativity, the challenge is clear: We must resist the gospel of the grift and return to the true, unvarnished gospel of Christ. It’s not about what we can gain from our faith, but about what we can give—to God, to others, and to a world in desperate need of authenticity.
-
-
+Because real greatness can’t be sold.
+It must be lived.
 
