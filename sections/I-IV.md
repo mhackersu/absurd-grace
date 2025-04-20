@@ -25,8 +25,6 @@ Podcasters can reach millions, but how many of them are actually called to speak
 
 The church must ask itself: Are we seeking truth, or are we seeking entertainment? Are we listening for the voice of God, or are we simply looking for content that fits our pre-existing preferences?
 
-
-
 ## **The Digital Prophet and the End-Time Narrative**
 
 One of the most significant shifts in the role of the modern prophet is the way they engage with the "end-times" narrative. The Bible is clear that we live in a time of waiting, of expectation, of urgency. Jesus spoke often of His return, and many prophets throughout history have proclaimed that the world was in its final stages. But today, the end-times narrative has taken on new forms, often tied to personal success, political victories, or cultural change.
@@ -34,8 +32,6 @@ One of the most significant shifts in the role of the modern prophet is the way 
 The internet is rife with end-time prophecies, some of which are rooted in biblical truth, and others which are far more speculative. The line between prophecy and prediction is increasingly blurred, and much of what passes for prophecy in the digital age is less about spiritual foresight and more about personal interpretation. Some influencers capitalize on the fear and uncertainty surrounding the future, creating content that promises certainty and control, even when the Bible cautions us against trying to predict God’s timeline.
 
 This new brand of prophetic voice often feeds on people’s anxieties, offering them a sense of comfort in an uncertain world. But in doing so, it may misrepresent the true nature of the gospel. The real prophetic message is one of hope—not in the temporal, but in the eternal. It is a call to repentance and renewal, not just a roadmap for personal success or political change.
-
-
 
 ## **The Prophet and the Consumer: The Commodification of Calling**
 
@@ -45,17 +41,13 @@ In his critique of modern consumerism, Søren Kierkegaard warned of the danger o
 
 This is the tension we face: the tension between the sacred and the market. The church must reclaim its prophetic voice, which has been drowned out by the cacophony of online content. The true prophet, as Spurgeon once said, is not one who seeks the applause of the crowd, but the approval of God.
 
-
-
 ## **A Call for Discernment**
 
 The presence of false prophets is nothing new. Jesus warned of those who would come in His name, speaking lies and deceiving many. But in the digital age, the need for discernment is even greater. We must be vigilant about who we listen to and what we allow to shape our understanding of God’s will. The Bible calls us to test the spirits (1 John 4:1), to examine everything carefully, and to hold fast to that which is good.
 
 This is the work of the church today—not just to call out the false prophets, but to teach the people how to discern the voice of God amidst the noise. In an age of information overload, the ability to listen for God’s voice is more important than ever.
 
-The true prophetic voice is not always the loudest or most charismatic. It may come in a whisper, in the stillness of the heart, or in the quiet reading of Scripture. But it will always lead back to Christ—who is the way, the truth, and the life. In the end, it’s not about who has the most followers or the biggest platform, but about who is faithfully pointing people to Jesus.
-
-
+The true prophetic voice is not always the loudest or most charismatic. It may come in a still, soft voice, in the stillness of the heart, or in the quiet reading of Scripture. But it will always lead back to Christ—who is the way, the truth, and the life. In the end, it’s not about who has the most followers or the biggest platform, but about who is faithfully pointing people to Jesus.
 
 As we navigate this age of digital prophets, we must remember that the call to be a prophet is not a call to fame or fortune, but a call to faithfulness. It’s not about building a brand or amassing a following—it’s about speaking the truth, no matter how unpopular, no matter how uncomfortable. The true prophet is not concerned with likes or shares, but with the eternal destiny of those they are called to serve.
 

@@ -73,7 +73,7 @@ Imagine:
 - A sermon series titled: “Branding Like Jesus: Leveraging Parables for Market Growth.”
 - Jesus flipping tables… now with influencer collabs and a Shopify link in bio.
 
-Comedy unearths the ridiculous by exaggerating the real. It unveils what we’ve accepted as normal and whispers: “Wait, what?”
+Comedy unearths the ridiculous by exaggerating the real. It unveils what we’ve accepted as normal and quietly says: “Wait, what?”
 
 It is the holy foolishness that mocks the proud and humbles the wise. A tool Kierkegaard himself used — often writing under pseudonyms to poke fun at the very institutions he critiqued.
 
