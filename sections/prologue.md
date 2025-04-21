@@ -10,17 +10,21 @@ This is a book about grace in the modern world—a world where preachers have Yo
 
 The thesis of this work is simple: grace is absurd. It doesn’t play by the rules. It shows up in the wrong places. It blesses the wrong people. It forgives what should be unforgettable. And it refuses to stay inside the clean, curated boundaries of institutional religion or digital ministry.
 
-Grace Is Not a Brand Strategy
+### Grace Is Not a Brand Strategy
 
-In an era where every idea becomes content, and every soul becomes a potential follower count, grace is the last truly unmarketable thing. It cannot be sold, bought, optimized, or scaled. It arrives like rain on a desert, uninvited and unsought. It is not an algorithmic response. It is a holy interruption.
+In an era where every soul is a metric and every sermon a reel, we’ve watched the gospel become oddly symmetrical with the influencer economy. Some pulpits now operate like press conferences. Preachers enter to intro music. And the message? It often comes dressed in TED Talk polish, armed with buzzwords, and aimed not at the brokenhearted, but at the algorithm.
 
-This book is for those who have grown weary of the spectacle. For those who feel spiritually homeless in a church culture that sometimes feels more like a PR agency than a place of worship. For those who love Jesus but are quietly allergic to the influencer-industrial complex that has arisen around His name.
+Here, grace is no longer a divine ambush. It's a ladder—climbed through insight, aesthetics, and social utility. The implicit message? Prove you “get it.” Perform it persuasively. Only then do you belong.
 
-This is not a book of complaints, though there is critique.
-This is not a book of solutions, though there is hope.
-This is a book of witness. A record of absurd grace.
+But the tragedy runs deeper. Many of those preaching this message—this polished, persuasive gospel of spiritual merit—have not themselves been wrecked by grace. Not really. Because real grace, the disruptive kind, doesn’t leave room for pretense. It unseats the ego, undoes the self-made, and ruins any theology that makes a brand out of blessing.
 
-Four Movements, One Story
+It is often the poor, the outcast, the overlooked—the ones without platforms—who know grace best. They’ve lived it. Not studied it. Not packaged it. Received it. And when these are the very people being told they must now earn their place in the assembly by proving their grasp on what they’ve already lived? That’s not just wrong—it’s alienating.
+
+This isn’t Levitical stewardship. It’s pharisaical gatekeeping. It is intellectualism parading as holiness. It is the absurd turned upside down—requiring clean resumes before administering rescue. But grace doesn’t require a résumé. It writes a new story.
+
+Grace doesn’t climb on anyone’s shoulders. It kneels. It washes feet. It disappears into the crowd, not to hide, but to serve without needing a spotlight. And when it shows up, it doesn’t wait for approval. It just gets to work.
+
+### Four Movements, One Story
 
 ## Absurd Grace is divided into four parts.
 
@@ -32,8 +36,6 @@ Under this glare, sermons become soundbites, prayer becomes content, and sacred 
 
 Still, true faith resists reduction. It thrives in silence, in anonymity, in obedience away from the camera lens. It invites believers to carry a light that shines not through popularity, but through quiet faithfulness. In the digital age, the task is to be both present in the culture and yet untouched by its hunger for spectacle.
 
-
-
 #### Faith in the Age of Influencers
 
 The modern spiritual landscape is increasingly shaped by influencers—figures who command platforms, audiences, and curated personas. In this climate, visibility often substitutes for virtue, and style can easily eclipse substance.
@@ -42,8 +44,6 @@ Influencer culture rewards charisma, but biblical faithfulness requires characte
 
 True ministry, however, isn’t a brand. It’s a burden. A calling. A cross. The life of Christ points toward obscurity over celebrity, self-giving over self-promotion. In an age of likes and shares, faith calls for a deeper witness—a way of life marked by humility, love, and the slow work of transformation.
 
-
-
 #### Reclaiming Real Life in a Virtual World
 
 We are more connected than ever and yet often feel more distant—from one another, from our own bodies, and from God. Screens mediate our relationships and interrupt our presence. Even worship is increasingly consumed rather than participated in.
@@ -51,8 +51,6 @@ We are more connected than ever and yet often feel more distant—from one anoth
 Christian faith is deeply incarnational. It affirms the importance of flesh, of space, of time. The sacraments are not digital. The fellowship of believers is not virtual. The Body of Christ is not just a metaphor—it is embodied, present, gathered.
 
 To reclaim real life is to return to simplicity and slowness. It is to light a candle rather than swipe. To show up rather than log in. To build community that isn’t curated. In doing so, we honor the God who did not stay distant, but took on flesh and dwelt among us.
-
-
 
 #### The Sacred Struggle for Authentic Ministry
 
@@ -64,15 +62,12 @@ This struggle is holy. It is the refusal to allow the sacred to be sold. It is t
 
 In this, absurd grace remains the answer. Not as a product, but as a presence. Not as a performance, but as a person—Jesus Christ, who is the same yesterday, today, and forever.
 
-
-
-**"Be not conformed to this world: but be ye transformed by the renewing of your mind..."**  
-— *Romans 12:2, KJV*
-
+> "Be not conformed to this world: but be ye transformed by the renewing of your mind..."
+> — *Romans 12:2, KJV*
 
 Each chapter is a mini-book, a standalone meditation, sermon, and satire. Together, they form a mosaic of sacred subversion.
 
-A Bit About Tone
+### A Bit About Tone
 
 This book will not always be solemn. Grace isn’t solemn. Sometimes it’s funny. Often it’s inconvenient. Grace slips in through the back door while we’re busy rehearsing our public testimonies. It’s not always polite. Sometimes it crashes the party and breaks the fine china.
 
@@ -80,15 +75,15 @@ So yes, you will find humor here. Satire, even. Because sometimes the only sane 
 
 But you will also find a sincere ache. A yearning for what is real, what is holy, what is not for sale. This book is equal parts lament and love letter.
 
-A Note on Scripture
+### A Note on Scripture
 
 Biblical references throughout this book are drawn from the King James Version (KJV)—not out of nostalgia or elitism, but because the poetry of the KJV captures the gravity and grace of Scripture in a way that modern translations sometimes flatten. When Scripture speaks in this book, let it do so with the thunder and tenderness of the old tongue:
 
-"But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us." — Romans 5:8, KJV
+> "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us." — Romans 5:8, KJV
 
 What could be more absurd than that?
 
-A Quiet Rebellion
+### A Quiet Rebellion
 
 The spirit of this book is not rage, but reverence. Not outrage, but invitation. We do not rage against the modern world—we simply choose to live differently within it. To turn down the volume. To reject clickbait theology. To stop performing our faith and start practicing it.
 
