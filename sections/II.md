@@ -23,14 +23,4 @@ The answer may lie in returning to a more grounded, relational spirituality—on
 The rise of vloggers and influencers has blurred the line between public and private life. But is there something sacred about keeping certain aspects of life veiled? Theologians and spiritual leaders have long argued that silence, mystery, and discretion are integral to maintaining the sanctity of certain practices.
 
 In a world where everything can be shared—where every thought, meal, and experience is broadcasted—the idea of sacred silence has been largely forgotten. Yet, as Immanuel Kant’s moral imperative suggests, not everything needs to be revealed, and some things should remain private in order to preserve their sacredness. This chapter challenges us to consider what should remain veiled and whether the act of revealing too much dilutes the sanctity of spiritual life.
-
-## **Jesus Wasn’t Cool—And That’s the Point**
-
-Finally, the figure of Jesus, often depicted today as a model of coolness, was far from the epitome of modern popularity. Jesus was not about fitting in; He was about standing out. His love was inconvenient, sacrificial, and uncomfortable. And in a world that values popularity and approval, this kind of radical love is often viewed as awkward, inconvenient, and uncool.
-
-But this is exactly the point. The gospel is not about meeting cultural expectations or conforming to the whims of social media. It is about a love that transcends coolness—one that calls us to love in the most inconvenient, self-sacrificial ways possible. This chapter reminds us that the heart of Jesus' message is not about being liked; it is about living with integrity and loving without regard for applause or recognition.
-
-
-
-This section of the book challenges readers to reconsider their relationship to technology, commodification, and cultural values. As we confront the intersection of faith and digital life, we are reminded of the timeless truths of the gospel that resist the pressures of the world around us. In the next section, we will explore further the themes of presence, attention, and the quiet revolution of love in the digital age.
-
+\
