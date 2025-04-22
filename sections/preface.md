@@ -6,7 +6,7 @@
 
 This is a field guide, not a manifesto. There are no blueprints here, no secret keys, no “10 Proven Hacks for Kingdom Influence.” What you’ll find instead is a scattered constellation of observations, provocations, laments, and softly spoken prayers—each written with the humble awareness that grace is not a system, but a scandal. A mystery. A miracle.
 
-By reading further, you consent to engage ideas that may challenge your comfort, unsettle your assumptions, or even (God forbid) make you laugh mid-repentance. Your experience is your own—handle it with care and with coffee. The author takes no responsibility for spiritual awakenings, existential spirals, or sudden bursts of gratitude in traffic.
+Beyond here are ideas that may challenge your comfort, unsettle your assumptions, or even (God forbid) make you laugh mid-repentance. Your experience is your own—handle it with care and with coffee. The author takes no responsibility for spiritual awakenings, existential spirals, or sudden bursts of gratitude in traffic.
 
 The views presented here do not constitute legal advice, denominational decrees, or liturgical dress codes. This is Kierkegaard with a Wi-Fi connection. This is Leibniz after a long fast. The thoughts within are ancient, absurd, and—unfortunately for the algorithm—not optimized for relevance. They have survived emperors, empires, and engagement metrics.
 
@@ -16,7 +16,7 @@ At its core, this work is shaped by a prayer—a longing not for performance but
 
 We live, not to prove our worth, but because we have been overwhelmed by a love that renders all performance obsolete. That is the real disclaimer: once grace takes root, there is no going back.
 
-**You've been warned. Now go on—walk the absurd path.**
+## Introduction
 
 Let’s be honest—grace doesn’t make sense. It’s not efficient. It doesn’t monetize. It doesn’t scale. There’s no subscription model, no branded content strategy, no influencer collab that can fully explain what grace is or why it keeps showing up like a divine party crasher. Grace is the worst business plan in human history—and yet, it’s the only thing that actually changes anything.
 
