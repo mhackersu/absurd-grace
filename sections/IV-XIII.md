@@ -1,5 +1,4 @@
-# Chapter 13: **Sacred Slowness: Sabbath as Civil Disobedience**  
-*Subtitle: A manifesto against hustle culture and spiritual burnout.*
+# Chapter 13: **Sacred Slowness:** Field notes for navigating the hustle culture and spiritual burnout
 
 In a world that never stops moving, where productivity is worshiped and rest is seen as laziness, the practice of Sabbath stands as an act of rebellion—a subversive declaration that there is more to life than constant striving, consuming, and hustling. It is a slow, deliberate act of resistance against a culture that demands we give more, do more, and be more, all while sacrificing our souls on the altar of achievement and efficiency.
 
