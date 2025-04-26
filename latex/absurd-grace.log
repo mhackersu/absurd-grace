@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.23)  26 APR 2025 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.23)  26 APR 2025 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**texmaker.tex
-(./texmaker.tex
+**absurd-grace.tex
+(./absurd-grace.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/base/book.cls
@@ -258,7 +258,7 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@english
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 62
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 64
 .
 
 (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
@@ -269,31 +269,31 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box52
 )
-(./texmaker.aux)
-\openout1 = `texmaker.aux'.
+(./absurd-grace.aux)
+\openout1 = `absurd-grace.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-Package hyperref Info: Link coloring OFF on input line 62.
- (./texmaker.out) (./texmaker.out)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+Package hyperref Info: Link coloring OFF on input line 64.
+ (./absurd-grace.out) (./absurd-grace.out)
 \@outlinefile=\write3
-\openout3 = `texmaker.out'.
+\openout3 = `absurd-grace.out'.
 
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -327,55 +327,36 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
-6.
+8.
 
 (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
-6.
+8.
 
 (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-66.
+68.
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-66.
+68.
 
 (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <24.88> on input line 66.
+(Font)              <12> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <20.74> on input line 66.
+(Font)              <8> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 66.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 66.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6
-6.
+(Font)              <6> on input line 68.
 
-(/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
 
 [1
 
@@ -393,12 +374,9 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 [4
 
 
-] (./texmaker.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 3.
-)
+] (./absurd-grace.toc)
 \tf@toc=\write4
-\openout4 = `texmaker.toc'.
+\openout4 = `absurd-grace.toc'.
 
 
 
@@ -406,9 +384,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [6
 
-] (./texmaker.lof)
+] (./absurd-grace.lof)
 \tf@lof=\write5
-\openout5 = `texmaker.lof'.
+\openout5 = `absurd-grace.lof'.
 
 
 
@@ -416,9 +394,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [8
 
-] (./texmaker.lot)
+] (./absurd-grace.lot)
 \tf@lot=\write6
-\openout6 = `texmaker.lot'.
+\openout6 = `absurd-grace.lot'.
 
 
 
@@ -427,76 +405,39 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [10
 
 ]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 100.
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
-Underfull \vbox (badness 2229) has occurred while \output is active []
+ []
 
 
 
 [1
 
-]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-02.
- (/usr/share/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-
-[2{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
- 1.
-
-
-[3
-
-]
-Overfull \hbox (3.06978pt too wide) in paragraph at lines 163--164
-[]\T1/lmr/m/n/10.95 In hac habitasse platea dic-tumst. Nul-lam turpis erat, por
-t-ti-tor ut pretium
- []
-
-
-
-[4]
-Overfull \hbox (3.06978pt too wide) in paragraph at lines 168--169
-[]\T1/lmr/m/n/10.95 In hac habitasse platea dic-tumst. Nul-lam turpis erat, por
-t-ti-tor ut pretium
- []
-
-
-
-[5]
-
-[6] (./texmaker.aux)
+] (./absurd-grace.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `texmaker.out' has not changed.
-(rerunfilecheck)             Checksum: 4C64F2A06E2853CEE722C5ED7C009F8D;2378.
+Package rerunfilecheck Info: File `absurd-grace.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10143 strings out of 475171
- 159756 string characters out of 5767095
- 555520 words of memory out of 5000000
- 32941 multiletter control sequences out of 15000+600000
- 662793 words of font info for 98 fonts, out of 8000000 for 9000
+ 9949 strings out of 475171
+ 156804 string characters out of 5767095
+ 548456 words of memory out of 5000000
+ 32802 multiletter control sequences out of 15000+600000
+ 597778 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,11n,79p,766b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,259b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm
 /lmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share
 /texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/
-public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr
-/share/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr9.pfb><
-/usr/share/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/f
-onts/type1/public/lm/lmro10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lm
-tt10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on texmaker.pdf (16 pages, 354259 bytes).
+public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb>
+Output written on absurd-grace.pdf (11 pages, 173971 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 194 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
