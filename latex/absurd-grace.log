@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.23)  27 APR 2025 17:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.23)  27 APR 2025 18:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,10 +542,51 @@ Overfull \hbox (7.12912pt too wide) in paragraph at lines 336--337
 [23]
 
 [24]
+Overfull \hbox (4.31691pt too wide) in paragraph at lines 411--412
+[]\T1/lmr/m/n/10.95 You are image-bearers of the di-vine. Fear-fully and won-de
+r-fully made^^Vnot
+ []
+
+
 
 [25
 
-] (./absurd-grace.aux)
+]
+
+[26]
+
+[27]
+
+[28
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
+
+ []
+
+
+
+[29] (./absurd-grace.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -554,22 +595,23 @@ Package rerunfilecheck Info: File `absurd-grace.out' has not changed.
 (rerunfilecheck)             Checksum: 269BDF43422C1974DE10E01510F34198;4388.
  ) 
 Here is how much of TeX's memory you used:
- 10045 strings out of 475171
- 158318 string characters out of 5767095
+ 10053 strings out of 475171
+ 158397 string characters out of 5767095
  555468 words of memory out of 5000000
- 32863 multiletter control sequences out of 15000+600000
- 619267 words of font info for 66 fonts, out of 8000000 for 9000
+ 32865 multiletter control sequences out of 15000+600000
+ 623530 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,6n,79p,664b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm
 /lmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share
 /texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/
-public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb>
-Output written on absurd-grace.pdf (25 pages, 230851 bytes).
+public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb></
+usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb>
+Output written on absurd-grace.pdf (29 pages, 256810 bytes).
 PDF statistics:
- 270 PDF objects out of 1000 (max. 8388607)
- 223 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 239 compressed objects within 3 object streams
+ 54 named destinations out of 1000 (max. 500000)
  158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
