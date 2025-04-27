@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.23)  27 APR 2025 00:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.23)  27 APR 2025 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -387,34 +387,100 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
 
 
 
 [7]
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-06.
- (/usr/share/texmf-dist/tex/latex/lm/ts1lmr.fd
+16.
+(/usr/share/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 [8{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
 
 [9
 
 ]
-Overfull \hbox (10.9502pt too wide) in paragraph at lines 139--140
+Overfull \hbox (10.9502pt too wide) in paragraph at lines 155--156
 \T1/lmr/m/n/10.95 lec-tu-al-ism parad-ing as ho-li-ness. It is the ab-surd turn
 ed up-side down^^Vrequiring
  []
 
 
+Overfull \hbox (18.92693pt too wide) in paragraph at lines 174--175
+[]\T1/lmr/m/n/10.95 The mod-ern spir-i-tual land-scape is in-creas-ingly shaped
+ by in-flu-encers^^Vfigures
+ []
+
+
 
 [10]
+<high-rule.png, id=152, 96.36pt x 36.135pt>
+File: high-rule.png Graphic file (type png)
+<use high-rule.png>
+Package pdftex.def Info: high-rule.png  used on input line 207.
+(pdftex.def)             Requested size: 48.17987pt x 18.06744pt.
 
-[11]
+
+[11 <./high-rule.png>]
 
 [12]
  1.
@@ -425,7 +491,7 @@ ed up-side down^^Vrequiring
 ]
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
@@ -462,7 +528,7 @@ Underfull \vbox (badness 2119) has occurred while \output is active []
 ]
  3.
 
-Overfull \hbox (7.12912pt too wide) in paragraph at lines 302--303
+Overfull \hbox (7.12912pt too wide) in paragraph at lines 336--337
 \T1/lmr/m/n/10.95 ex-change for faith, click-bait the-ol-ogy promises in-stant,
  tan-gi-ble re-wards^^Vsuch
  []
@@ -475,25 +541,11 @@ Overfull \hbox (7.12912pt too wide) in paragraph at lines 302--303
 
 [23]
 
-[24] (./absurd-grace.lof)
-\tf@lof=\write5
-\openout5 = `absurd-grace.lof'.
-
-
+[24]
 
 [25
 
-]
-
-[26
-
-] (./absurd-grace.lot)
-\tf@lot=\write6
-\openout6 = `absurd-grace.lot'.
-
-
-
-[27] (./absurd-grace.aux)
+] (./absurd-grace.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -502,10 +554,10 @@ Package rerunfilecheck Info: File `absurd-grace.out' has not changed.
 (rerunfilecheck)             Checksum: 269BDF43422C1974DE10E01510F34198;4388.
  ) 
 Here is how much of TeX's memory you used:
- 10055 strings out of 475171
- 158437 string characters out of 5767095
+ 10045 strings out of 475171
+ 158318 string characters out of 5767095
  555468 words of memory out of 5000000
- 32864 multiletter control sequences out of 15000+600000
+ 32863 multiletter control sequences out of 15000+600000
  619267 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,6n,79p,664b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -514,10 +566,10 @@ t/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm
 /lmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share
 /texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/
 public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb>
-Output written on absurd-grace.pdf (27 pages, 228128 bytes).
+Output written on absurd-grace.pdf (25 pages, 230851 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 229 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 223 compressed objects within 3 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 
